@@ -1,6 +1,6 @@
 <h1 align="center">Profilime Hoş Geldin 🤙🏻</h1>
 <p align="center">
-  <a href="https://discord.com/users/448841761222164480" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/448841761222164480" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/5tf2616sl9mvdmdzoz9a9v2lu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20Hesab%C4%B1m%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://open.spotify.com/user/5tf2616sl9mvdmdzoz9a9v2lu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20Hesab%C4%B1m%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://www.instagram.com/yunusemrree1/?hl=tr" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
