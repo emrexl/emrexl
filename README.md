@@ -1,5 +1,6 @@
-# Welcome to GitHub Desktop!
+# ExaelBBQ
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+[![ExaelBBQ's github stats](https://github-readme-stats.vercel.app/api?username=emrexl)](https://github.com/emrexl/github-readme-stats)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
+
