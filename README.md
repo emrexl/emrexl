@@ -9,6 +9,19 @@
 <br><a href = "https://discord.gg/63E8SfTfb5" target"blank_"><img src = "https://img.shields.io/discord/736348236557713498?label=Discord%20Sunucum&style=for-the-badge"></br>
 </p>
 
+<h3>Coding Languages</h3>
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+<h3>Technologies</h3>
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emrexl&count_private=true&show_icons=true&theme=whitek&hide_border=true" width="%100" height="150px"
 </p>
