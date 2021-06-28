@@ -16,10 +16,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </p>
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrexl&layout=compact" alt="emrexl" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrexl&count_private=true&show_icons=true&theme=whitek&hide_border=true" width="%100" height="150px"
-</p>
