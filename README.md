@@ -1,10 +1,10 @@
 <h1 align="center">Profilime Hoş Geldin 🤙🏻</h1>
 <p align="center">
-  <a href="https://discord.com/users/448841761222164480" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/852657777649647656" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/emrexl" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <br><img src = "https://img.shields.io/github/followers/emrexl?color=Green&label=Takip%C3%A7i&logo=Github%20takip%C3%A7isi&style=for-the-badge">
 <img src = "https://img.shields.io/github/stars/emrexl?label=Y%C4%B1ld%C4%B1z&style=for-the-badge"></br>
-<br><a href = "https://discord.gg/63E8SfTfb5" target"blank_"><img src = "https://img.shields.io/discord/736348236557713498?label=Discord%20Sunucum&style=for-the-badge"></br>
+<br><a href = "https://discord.gg/just" target"blank_"><img src = "https://img.shields.io/discord/736348236557713498?label=Discord%20Sunucum&style=for-the-badge"></br>
 </p>
 
 <h3>Coding Languages</h3>
